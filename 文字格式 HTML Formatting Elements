@@ -1,0 +1,17 @@
+Formatting elements were designed to display special types of text:
+    <b> - Bold text
+      <strong> - Important text
+      <i> - Italic text
+      <em> - Emphasized text
+      <mark> - Marked text
+      <small> - Smaller text
+      <del> - Deleted text
+      <ins> - Inserted text
+      <sub> - Subscript text
+      <sup> - Superscript text
+      
+      HTML 網頁文字加入底線範例一、使用 <u> 標籤
+<u>我是加了底線的文字</u>
+
+HTML 網頁文字加入底線範例二、使用 CSS text-decoration 語法
+<span style="text-decoration:underline;">我是加了底線的文字</span>
