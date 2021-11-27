@@ -15,3 +15,5 @@ HTML marquee 跑馬燈可用的參數如下
 
 HTML marquee 跑馬燈範例
 <marquee direction="right" height="30" scrollamount="5" behavior="alternate">跑馬燈測試</marquee>
+
+網頁自動導向
